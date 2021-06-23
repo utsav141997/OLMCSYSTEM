@@ -3,7 +3,7 @@ package edu.cqu.olmclibrarysystem.model;
 /**
  * Author: Model class for Author registration
  *
- * @author Tikaraj Ghising - 12129239
+ * @author Lenovo
  */
 public class Author {
 
