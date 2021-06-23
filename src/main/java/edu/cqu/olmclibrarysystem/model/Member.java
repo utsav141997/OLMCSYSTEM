@@ -1,12 +1,12 @@
 package edu.cqu.olmclibrarysystem.model;
 
 /**
- * Member: Model class for Borrowers manipulation
+ * Member: Model for Borrowers 
  *
  * @author Lenovo
  */
 public class Member {
-    private int memberId;
+    private int memberId; //unique
     private String fullName;
     private String email;
     private String phoneNumber;
