@@ -3,9 +3,9 @@ package edu.cqu.olmclibrarysystem.model;
 import java.util.Date;
 
 /**
- * MemberBorrowedBook: Model class for Member Borrowed Book manipulation
+ * MemberBorrowedBook: Member Borrowed Book manipulate
  *
- * @author Tikaraj Ghising - 12129239
+ * @author Lenovo
  */
 public class MemberBorrowedBook {
 
