@@ -3,13 +3,13 @@ package edu.cqu.olmclibrarysystem.model;
 import edu.cqu.olmclibrarysystem.enums.UserRole;
 
 /**
- * User: Model class for User registration
+ * User: User registration
  *
- * @author Tikaraj Ghising - 12129239
+ * @author Lenovo
  */
 public class User {
 
-    private int userId;
+    private int userId;  // unique
     private String fullName;
     private String email;
     private String password;
