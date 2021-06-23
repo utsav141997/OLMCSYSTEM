@@ -3,7 +3,7 @@ package edu.cqu.olmclibrarysystem.model;
 /**
  * Member: Model class for Borrowers manipulation
  *
- * @author Tikaraj Ghising - 12129239
+ * @author Lenovo
  */
 public class Member {
     private int memberId;
