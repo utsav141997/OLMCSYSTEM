@@ -1,8 +1,8 @@
 package edu.cqu.olmclibrarysystem.model;
 /**
- * Book: Model class for Book manipulation 
+ * Book: Model for Book manipulation 
  *
- * @author Tikaraj Ghising - 12129239
+ * @author Lenovo
  */
 public class Book {
 
