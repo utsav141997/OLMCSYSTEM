@@ -3,9 +3,9 @@ package edu.cqu.olmclibrarysystem.model;
 import java.util.Date;
 
 /**
- * DonorDonatedBook: Model class for Donor Donated Book registration
+ * DonorDonatedBook: Model for Donor Donated Book
  *
- * @author Tikaraj Ghising - 12129239
+ * @author TLenovo
  */
 public class DonorDonatedBook {
     
