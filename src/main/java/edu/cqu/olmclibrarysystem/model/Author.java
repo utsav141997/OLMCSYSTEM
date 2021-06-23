@@ -1,7 +1,7 @@
 package edu.cqu.olmclibrarysystem.model;
 
 /**
- * Author: Model class for Author registration
+ * Author: Model for Author registration
  *
  * @author Lenovo
  */
