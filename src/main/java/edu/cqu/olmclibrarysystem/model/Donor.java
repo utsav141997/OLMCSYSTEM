@@ -1,13 +1,13 @@
 package edu.cqu.olmclibrarysystem.model;
 
 /**
- * Donor: Model class for Donor manipulation 
+ * Donor: Model for Donor  
  *
- * @author Tikaraj Ghising - 12129239
+ * @author Lenovo
  */
 
 public class Donor {
-    private int donorId;
+    private int donorId; // unique
     private String fullName;
     private String email;
     private String phoneNumber;
